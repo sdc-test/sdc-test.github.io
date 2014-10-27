@@ -1,0 +1,8 @@
+
+
+User-agent: *
+
+Allow: /
+Disallow: /site/
+
+sitemap: http://somdechuva.com.br/sitemap.xml
